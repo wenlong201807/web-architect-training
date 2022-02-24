@@ -1,0 +1,18 @@
+
+代码仓库 https://github.com/ramroll/skedo
+检查环境要求
+
+yarn
+
+yarn run reinstall 需要很长时间
+
+yarn start
+
+pm2 list
+
+访问: localhost:3000
+
+安装服务
+项目根目录下 
+mac ts-node packages/skedo-dao/srcforce_build_db.ts
+
