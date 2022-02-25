@@ -1,0 +1,18 @@
+digraph {
+  bgcolor="lightblue"
+  label="Home"
+  subgraph cluster_ground_floor {
+    bgcolor="red"
+    label="Ground Floor"
+    Lounge[label="我是谁" color=yellow]
+    Kitchen
+
+    Lounge -> Kitchen;
+  }
+  subgraph cluster_top_floor {
+    bgcolor="lightyellow"
+    label="Top Floor"
+    Bedroom
+    Bathroom
+  }
+}

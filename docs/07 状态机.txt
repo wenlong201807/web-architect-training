@@ -1,0 +1,14 @@
+
+
+vscode 插件
+Graphviz
+Graphviz Preview
+
+
+- JavaScript状态模式及状态机模型 
+https://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247484240&idx=1&sn=fd5ef3e916fe5ac99141c4cc641311ea&chksm=fbb58899ccc2018f331a8bc2ecc87f75c23184f1397ed6490917b1265d4d2380b10c1dc8aa94#rd
+
+https://github.com/jakesgordon/javascript-state-machine
+
+- node 事件派发机制
+
