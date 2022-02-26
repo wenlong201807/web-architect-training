@@ -1,0 +1,23 @@
+{
+  "name": "web-architect-training",
+  "version": "1.0.0",
+  "description": "安装前置依赖\r ```shell\r npm install ts-node -g\r npm install pm2 -g\r ```",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "server": "json-server -w server/db.json -p 5059"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenlong201807/web-architect-training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenlong201807/web-architect-training/issues"
+  },
+  "homepage": "https://github.com/wenlong201807/web-architect-training#readme"
+}
